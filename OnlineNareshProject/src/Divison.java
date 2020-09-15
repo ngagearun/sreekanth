@@ -12,7 +12,7 @@ public class Divison {
 	public static void main(String[] args) {
 		Divison  divi=new Divison();
 		divi.div(100,2);
-		divi.div(50, 6);
+		divi.div(50, 100);
 
 	}
 
